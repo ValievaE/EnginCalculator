@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EnginCalculator</string>
+    <string name="btn_text_1">1</string>
+    <string name="btn_text_2">2</string>
+    <string name="btn_text_3">3</string>
+    <string name="btn_text_4">4</string>
+    <string name="btn_text_5">5</string>
+    <string name="btn_text_6">6</string>
+    <string name="btn_text_0">0</string>
+    <string name="btn_text_point">.</string>
+    <string name="btn_text_7">7</string>
+    <string name="btn_text_8">8</string>
+    <string name="btn_text_9">9</string>
+    <string name="btn_text_clear">C</string>
+    <string name="btn_text_plus_minus">+/-</string>
+    <string name="btn_text_div">/</string>
+    <string name="btn_text_percent">%</string>
+    <string name="btn_text_equally">=</string>
+    <string name="btn_text_plus">+</string>
+    <string name="btn_text_minus">-</string>
+    <string name="btnTextEnginCalc">Переключить</string>
+    <string name="btn_text_mr">MR</string>
+    <string name="btn_text_mc">MC</string>
+    <string name="btn_text_mpl">M+</string>
+    <string name="btn_text_m_min">M-</string>
+    <string name="btn_text_cos">cos</string>
+    <string name="btn_text_sin">sin</string>
+    <string name="btn_text_sqrt">Sqrt</string>
+</resources>
